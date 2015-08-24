@@ -1,0 +1,10 @@
+en:
+  formtastic:
+    :yes: 'はい'
+    :no: 'いいえ'
+    :create: '%{model}を作成'
+    :update: '%{model}を更新'
+    :submit: '%{model}を送信'
+    :cancel: 'キャンセル'
+    :reset: 'リセット'
+    :required: '必須'
